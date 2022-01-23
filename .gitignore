@@ -12,4 +12,8 @@
 hs_err_pid*
 
 *.md
-
+*.project
+*.settings
+*.target
+target
+*.classpath
